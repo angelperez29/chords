@@ -3,7 +3,7 @@ E A D G B E
 Cejilla:
 sin cejilla
 [Intro]
-Bm E7 A F#7 Bm E7 A F#7
+Bm A Bm A F#7
  
 [Verse 1]
 Bm
@@ -32,7 +32,7 @@ Por el cielo busco mi estrella
 A la luna quiero subir
  
 [Chorus]
-        D     Bm
+        D 
 Voy desvelado
      E7                        C#m
 Por estas calles esperando encontrar
@@ -53,7 +53,7 @@ Yo seguiré, desvelado y sin amor
 Bm E7 A F#7 Bm E7 A F#7
  
 [Chorus]
-      D       Bm
+      D       
 Voy desvelado
      E7                        C#m
 Por estas calles esperando encontrar
@@ -61,7 +61,7 @@ Por estas calles esperando encontrar
 A esa voz de ángel que quiero amar
           E7
 ¿Dónde andará?
-        D     Bm
+        D     
 Voy desvelado
       E7                    C#m
 Y mi deseo no me deja descansar
