@@ -53,14 +53,4 @@ puede hacerme temblar
 instrumental: Cmaj7 G
 
  
-D6
-E  0
-B  3
-G  2
-D  0
-A  X
-E  X
-
-En G y Cmaj7
-se le hace adornos en la tercera cuerda en el segundo traste.
-Dudas
+En G y Cmaj7 se le hace adornos en la tercera cuerda en el segundo traste.
