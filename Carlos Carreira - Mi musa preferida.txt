@@ -1,4 +1,5 @@
 Cejilla: sin cejilla
+Intro: G
 
 Cmaj7                                                                Cmaj7
 Puedo bajarte alguna estrella                                        Puedo tener diezmil defectos
@@ -10,13 +11,13 @@ Puedo cambiarme de planeta                                           Am7
 Tal vez si tu me lo pidieras                                         Y recorrer esta galaxia
 G                                                                    Bm
 puedo ser viento y a la vez ser de tu piel                           Ser tu ángel de la guarda
-                                                                     C                              D6
-Am7                                                                  Ser tus pasos cuando quieras correr
-Y recorrer esta galaxia
-Bm                                                                   G
-Ser tu ángel de la guarda                                            Ven a mi di que si
-Am7                           D6                                     No pongas freno a lo que sientes
-Ser tus pasos cuando quieras correr                                        Bm
+Am7                                                                  C                              D6
+Y recorrer esta galaxia                                              Ser tus pasos cuando quieras correr
+Bm
+Ser tu ángel de la guarda                                            G
+Am7                           D6                                     Ven a mi di que si
+Ser tus pasos cuando quieras correr                                  No pongas freno a lo que sientes
+                                                                     Bm
                                                                      Sé mi principio y fin
    G                                                                    E7                            Am7
 Ven a mi di que si                                                   La vuelta al mundo en un segundo si me miras así
@@ -49,7 +50,8 @@ Am7              D6
 La única que de amor 
                Cmaj7
 puede hacerme temblar
- 
+
+
 instrumental: Cmaj7 G
 
  
