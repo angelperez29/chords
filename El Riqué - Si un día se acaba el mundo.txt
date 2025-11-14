@@ -1,3 +1,4 @@
+Verso:
 Me gusta estar contigo
 Con música en el coche
 Tú me llamas amigo
@@ -8,6 +9,8 @@ Mis ganas de besarte
 Y espero en tu ventana
 Por si me preguntaras:
 ¿No prefieres quedarte?
+
+Pre-coro
 Si un día se acaba el mundo
 Ya sabes que te quiero
 Aunque no exista un día
@@ -15,11 +18,14 @@ Que no sienta que muero
 Salvando los segundos
 Pensando que sin ti
 También se acaba el mundo
+
+Coro
 Y aunque no tengo nada
 Me queda la poesia
 Lo que tuve te lo di
 Cada libro de Garcia
 Y toda mi materia gris
+
 Salimos del concierto
 Y te regreso a casa
 Las nubes en el suelo
