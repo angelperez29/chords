@@ -1,4 +1,4 @@
-Intro: Am Bb Dm
+Intro: Dm C Am Bb Dm
 
 C                   Am               Bb               
 Que daño, que daño, que  daño seguir teniendo tus fotos
@@ -10,9 +10,9 @@ Ay, ay, ay
 No tengo la fuerza pa' cerrar la puerta
 Dm     C
 Ay, ay, ay
-          A
+      A         Am
 Dejé pasar la tristeza
-Am         Bb                 C
+         Bb                 C
 Quisiera regresar el tiempo y no conocerte
 Am                Dm
 Pa' borrarte de mi mente
