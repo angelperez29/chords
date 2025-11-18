@@ -1,9 +1,15 @@
+Intro: AM7 Bm7 C#m7 Bm7 AM7
+      AM7 Bm7 C#m7-Bm7-AM7
+
 Verso:
+AM7   Bm7   C#m7  Bm7
 Me gusta estar contigo
+AM7   Bm7   C#m7  Bm7   
 Con música en el coche
 Tú me llamas amigo
 Y yo te digo:
 "Qué linda... esta la noche"
+
 Recojo mi guitarra
 Mis ganas de besarte
 Y espero en tu ventana
@@ -19,13 +25,16 @@ Salvando los segundos
 Pensando que sin ti
 También se acaba el mundo
 
-Coro
+Pre-coro
 Y aunque no tengo nada
 Me queda la poesia
 Lo que tuve te lo di
 Cada libro de Garcia
 Y toda mi materia gris
 
+Bridge
+
+Verso
 Salimos del concierto
 Y te regreso a casa
 Las nubes en el suelo
@@ -36,13 +45,17 @@ Ni tú tan distraída
 Yo siempre llego tarde
 Tú llegas a otra parte
 Te encuentro tan perdida
+
+Pre-coro
 Si un día se acaba el mundo
 Ya sabes que te quiero
-Aunque no exista un día
+Aunque no exista un día-
 Que no sienta que muero
 Salvando los segundos
 Pensando que sin ti
 También se acaba el mundo
+
+Coro
 Y aunque no tengo nada
 Me queda la poesia
 Lo que tuve te lo di
