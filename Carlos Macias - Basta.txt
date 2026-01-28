@@ -1,11 +1,11 @@
 Tono: C
-( Fm7  Em  Am  Dm7  C9 )
+( Fmj7 Em Am Dm7 C9 )
 
 F
 No niego que al principio dije
            Em
 Que daría todo solo por amor
- Dm7
+ Dm
 Pero hasta la ilucion se cansa
   C                                    
 De esperar el beso que nunca llegó
@@ -14,7 +14,7 @@ F
 Se me esfumo ese amor tan grande
           Em
 Ese que vivía en mi imaginación
-Dm7
+Dm
 No se quién era más cobarde
          C
 Si tu indiferencia o mi resignación
@@ -23,7 +23,7 @@ F                      G
 Yo quise compartir contigo mi deseo
 Em                   Am
 Amarte con tanta locura pero el miedo
-    Dm7                          G
+    Dm                          G
 Me hizo desgarrar los sueños y no puedo más
 
 Coro:
@@ -32,10 +32,10 @@ F      G
 Basta, no quiero despertarme más
               Em
 Al lado de un fantasma
-       A7
+       Asus4
 Que solo me ha hecho llorar
-                Dm7
-Y que no arriesga el alma
+                Dm
+Y que no apuesta el alma
      G
 Que abraza por necesidad
                 C9
@@ -45,9 +45,9 @@ F      G
 Basta, de aferrarme hacer castillos
             Em
 En un mar de arena
-     A7
+     Asus4
 De darte todo de mi vida
-              Dm7
+              Dm
 Sin que tu lo sepas
 G
 Basta, basta, basta
