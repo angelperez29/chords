@@ -23,7 +23,7 @@ Fmaj7
 Démosle la vuelta a la ley de Murphy
 C
 Que todo nos salga bien, mejor y al doble
-Fmaj7
+Am
 Nada está escrito, la hoja está en blanco
 G
 Y la mejor historia es la que nos está esperando
@@ -31,13 +31,13 @@ Fmaj7
 Démosle la vuelta a las canciones tristes
 C
 Borremos a besos nuestras cicatrices
-Am7
+Am
 Querer bonito se hace tan fácil
 G
 Y lo más lindo de este mundo sale gratis
-Fmaj7                 Em7                 Am7
+Fmaj7                 Em7                 Am
 La perfección existe, yo la conocí al besarte
-G Fmaj7  Am G Fmaj7
+G Fmaj7 Am G Fmaj7
 Yeh, eh yeh
 
 Pre-Coro
@@ -49,11 +49,11 @@ Estabas como yo
 Huyendo del dolor
 
 Coro
-Fmaj7                           F
+Fmaj7                          
 Démosle la vuelta a la ley de Murphy
 C
 Que todo nos salga bien, mejor y al doble
-Fmaj7
+Am
 Nada está escrito, la hoja está en blanco
 G
 Y la mejor historia es la que nos está esperando
