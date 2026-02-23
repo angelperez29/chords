@@ -1,13 +1,13 @@
 Capo: 3er traste
-Nota: C7 hacerlo con cejilla
+Nota: B7 hacerlo con cejilla
 
-Intro: Am, Em, C7, Em
+Intro: Am, Em, B7, Em
 
 Em                        Am 
 Y que me traigan mas botellas
                    Em
 Para quitarme este sabor de su sudor
-                       C7
+                       B7
 Y que me apunten en la cuenta
 Em                 
 Toda la desgracia que dejo
@@ -16,7 +16,7 @@ Em
 Que no quieres nada maa de mi, que te fuiste con ese infeliz
 Am
 Que importa, que importa
-C7
+B7
 Que me va a matar la depresion, que voy a vivir en el alcohol
 Em
 Que importa, que importa
@@ -25,47 +25,43 @@ Que te fuiste sin decir adios, que no dormiras en mi colchon
 Am
 Que importa, que importa
 
-C7
+B7
 Que ensuciaste mi reputación, que te vale madres este amor
 Em
 Que importa, que importa
         Am       D
 Que te quise demasiado
-       C7
+       B7
 Y que nadie te ha querido como yo
             Em
 Asi es la Vida
                     Am
 De caprichosa, aveces negra, aveces rosa
-          D                    C7
+          D                    B7
 Asi es la vida, jacarandosa, te quita te pone te sube, te baja y aveces te lo da
 Em
 Así es la vida
 
-Bridge: Em, Am, D, C7
+Bridge: Em, Am, D, B7
 
 Em
 Que me desangraste el corazón, que me hara justicia la nación
-
 Am
 Que importa, que importa
-
-C7
+B7
 Que tu vida es un carnaval, que tarde o temprano volveras
-
 Em
 Que importa, que importa
-
         Am       D
 Que te quise demasiado
-       C7
+       B7
 Y que nadie te ha querido como yo
 
             Em
 Asi es la Vida
                     Am
 De caprichosa, aveces negra, aveces rosa
-          D                    C7
+          D                    B7
 Asi es la vida, jacarandosa, te quita te pone te sube, te baja y aveces te lo da
 Em
 Así es la vida...Escuchame negra, me dejaste esperando
@@ -73,25 +69,21 @@ Am
 Me juge la camista y perdi hasta el encanto
                D
 Ay! Sigue abierta la herida, ya me estoy desangrando
-
-                 C7
+                 B7
 HAy mamita querdia me vo de tu vida y tu siges bailano
 
             Em
 Asi es la Vida
                     Am
 De caprichosa, aveces negra, aveces color rosa
-
-          D                    C7
+          D                    B7
 Asi es la vida, jacarandosa, te quita te pone te sube, te 
 baja y aveces te lo da
-
             Em
 Asi es la Vida
                     Am
 De caprichosa, aveces negra, aveces color rosa
-
-          D                    C7
+          D                    B7
 Asi es la vida, jacarandosa, te quita te pone te sube, te 
 baja y aveces te lo da
 

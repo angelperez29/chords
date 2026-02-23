@@ -70,10 +70,10 @@ Y entonces descubrí
                    G
 Que ya mirabas diferente
     D/F#          Em7
-Me dedique a perderte
-     D
- Me dedique a perderte *(Con el intro)*
-
+Me dedique a perderte0
+     D0
+ Me dedique a perderte *(Con el intro)*0
+0
 
 
 Intro: Cadd9 - Bm7 - Em7 - Cadd9 - Esus4 - E - Cadd9 - Bm7 - Em7 - Am7 - Fmaj7
@@ -127,3 +127,11 @@ Que ya mirabas diferente
 Me dedique a perderte
 D        Cadd9   Dsus4
 Me dedique a perderte
+
+ D/F# 
+E| 2
+B| 3
+G| 2
+D| 
+A|
+E| 2 o Mutear
