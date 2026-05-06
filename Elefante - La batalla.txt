@@ -1,7 +1,7 @@
 INTRO: Bm A Em G Bm A Em G
 
 Bm       G             D
-para que seguir perdido
+Para que seguir perdido
                 A
 en este laberinto
 Bm        G             D
@@ -17,9 +17,9 @@ que siempre asechan y se van
              D             A
 robando un trozo de mi calma
          Em           G
-alimentando la ansiedad
+alimentando la ansiedad.
 Bm        G           D
-para que vivir al borde
+Para que vivir al borde
                  A
 de este precipicio
 Bm         G            D
@@ -75,3 +75,5 @@ de que me sirve la verdad
 si tus mentiras me desarman
         Em           G
 estoy cansado de luchar
+
+CORO*
