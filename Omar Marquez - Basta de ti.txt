@@ -1,24 +1,24 @@
-Intro: B C#m F# B C#m F#
+Intro: Bsus2 C#m7 F# Bsus2 C#m7 F#
 
-B
+Bsus2
 Sé que estás con alguien más
- C#m
+ C#m7
 Desde que nos perdimos
  F#
-Que seguro aún me extrañas
-
-B
+Que seguro no me extrañas
+// Nota la letra original dice 'Que seguro aun me extrañas'
+Bsus2
 Sé que lo intentamos todo
- C#m                     F#
+ C#m7                     F#
 Pero al final no quedó nada
 G#m                     D#7
 Sé que lo mejor fue terminar
- E                        B
+ E                        Bsus2
 Que ya no daba para más nuestra ilusión
-C#m                             F#
+C#m7                             F#
 Con esta canción por fin te digo adiós
 
-B
+Bsus2
 Ya no te amo, ya no me dueles
 E
 Te felicito por lo que tienes
@@ -27,7 +27,7 @@ No eres tú el amor de mi vida
  F#
 Fuiste tan solo una guerra perdida
 
-B
+Bsus2
 No te preocupes estaré bien
  E
 No eres la última ni la primera
@@ -36,18 +36,18 @@ Que me lastima, que me envenena
 F#
 Basta de ti
 
- B C#m7
+ Bsus2 C#m7
 Ya cumplí mi condena
-F#-B C#m-F#
+F#-Bsus2 C#m7-F#
 Basta de ti
 
 
-B
+Bsus2
 Se que ya no hay más que hablar
 Que el tiempo sanará
 C# F#
 nuestras heridas por completo
-B
+Bsus2
 Ya no te voy a buscar
 No vuelvas a llamar
 C# F#
@@ -55,34 +55,45 @@ Solo mantente lejos
 
 G#m D#7
 Destruimos lo que nos unía
- E B
+ E Bsus2
 Y sabemos que la culpa es de los dos
 C#7 F#
 Ya no tiene caso que pidas perdón
 
-B
+Bsus2
 Ya no te amo, ya no me dueles
  E
 Te felicito por lo que tienes
- C#m
+ C#m7
 No eres tú el amor de mi vida
  F#
 Fuiste tan solo una guerra perdida
 
-B
+Bsus2
 No te preocupes estaré bien
  E
 No eres la última ni la primera
- C#m
+ C#m7
 Que me lastima, que me envenena
 F#
 Basta de ti
 
-B F#
+Bsus2 F#
 Ya cumplí mi condena
-B C#m-F#
+Bsus2 C#m7-F#
 Basta de ti
-B
+Bsus2
 Basta de ti
-F# B
+F# Bsus2
 Basta de ti
+
+C#m7
+e| M
+b| 0
+g| 4
+D| 2
+A| 4
+E| M
+
+M -> Mute
+0 -> Al aire
