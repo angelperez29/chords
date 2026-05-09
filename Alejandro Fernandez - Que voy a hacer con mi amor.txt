@@ -4,9 +4,9 @@ G/B                 F/A
 Le baje las estrellas de un solo golpe
     Gsus4-G7    C               Em 
 tal vez ese fue mi error, le ofreci cada dia
-      Am     F      Gsus4-G7   Am
+      Am     F      Gsus4   Am
 y cada noche el alma y el corazon
-      Em          F
+      Em7          F
 pero no le basto no fue suficiente
       Dm7                  Gsus4-G7
 no quizo quererme como la quise yo
@@ -24,10 +24,10 @@ F                    Dm7        Gsus4-G7
 que me esta partiendo en dos la razón
 Am              Em7         F 
 que voy hacer sin su amor, que voy hacer con
-C  Em7   
+      C
 mi amor.
 
-Bridge: E  Am/G  F  Gsus4
+Bridge: Em7 Am/G  F  Gsus4
 
 C           G           Am7
 Se alejo de mi vida de un solo golpe
