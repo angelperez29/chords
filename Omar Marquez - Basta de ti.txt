@@ -5,8 +5,8 @@ Sé que estás con alguien más
  C#m7
 Desde que nos perdimos
  F#
-Que seguro no me extrañas
-// Nota la letra original dice 'Que seguro aun me extrañas'
+Que seguro aun me extrañas
+
 Bsus2
 Sé que lo intentamos todo
  C#m7                     F#
