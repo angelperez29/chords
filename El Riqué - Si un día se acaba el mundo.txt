@@ -2,7 +2,7 @@ Intro: AM7 Bm7 C#m7 Bm7 AM7
       AM7 Bm7 C#m7-Bm7-AM7
 
 Verso:
-AM7   Bm7   C#m7  Bm7
+Amaj7   Bm7   C#m7  Bm7
 Me gusta estar contigo
 AM7   Bm7   C#m7  Bm7   
 Con música en el coche
@@ -11,7 +11,7 @@ Y yo te digo:
 "Qué linda... esta la noche"
 
 Recojo mi guitarra
-Mis ganas de besarte
+Mis ganas de besarte          
 Y espero en tu ventana
 Por si me preguntaras:
 ¿No prefieres quedarte?
@@ -26,10 +26,15 @@ Pensando que sin ti
 También se acaba el mundo
 
 Pre-coro
+Dmaj7
 Y aunque no tengo nada
+Dbm7
 Me queda la poesia
+Esus4
 Lo que tuve te lo di
+Amaj7
 Cada libro de Garcia
+E9
 Y toda mi materia gris
 
 Bridge
@@ -61,3 +66,5 @@ Me queda la poesia
 Lo que tuve te lo di
 Cada libro de Garcia
 Y toda mi materia gris
+
+
