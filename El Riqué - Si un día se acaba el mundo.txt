@@ -1,10 +1,7 @@
-Intro: AM7 Bm7 C#m7 Bm7 AM7
-      AM7 Bm7 C#m7-Bm7-AM7
+Intro: Amaj7   Bm7   C#m7 
 
-Verso:
-Amaj7   Bm7   C#m7  Bm7
+Verso: Amaj7   Bm7   C#m7  Bm7
 Me gusta estar contigo
-AM7   Bm7   C#m7  Bm7   
 Con música en el coche
 Tú me llamas amigo
 Y yo te digo:
@@ -16,7 +13,7 @@ Y espero en tu ventana
 Por si me preguntaras:
 ¿No prefieres quedarte?
 
-Pre-coro
+Pre-coro Amaj7   Bm7   C#m7  Bm7
 Si un día se acaba el mundo
 Ya sabes que te quiero
 Aunque no exista un día
@@ -25,21 +22,21 @@ Salvando los segundos
 Pensando que sin ti
 También se acaba el mundo
 
-Pre-coro
+Coro
 Dmaj7
 Y aunque no tengo nada
 Dbm7
 Me queda la poesia
-Esus4
+Esus4             E9     
 Lo que tuve te lo di
-Amaj7
+Dmaj7       Dbm7
 Cada libro de Garcia
-E9
+Esus4             E9
 Y toda mi materia gris
 
-Bridge
+Bridge: Amaj7   Bm7   C#m7  Bm7
 
-Verso
+Verso: Amaj7   Bm7   C#m7  Bm7
 Salimos del concierto
 Y te regreso a casa
 Las nubes en el suelo
@@ -61,10 +58,23 @@ Pensando que sin ti
 También se acaba el mundo
 
 Coro
+Dmaj7
 Y aunque no tengo nada
+Dbm7
 Me queda la poesia
+Esus4             E9     
 Lo que tuve te lo di
+Dmaj7       Dbm7
 Cada libro de Garcia
+Esus4             E9
 Y toda mi materia gris
+
+Amaj7       Dmaj7       Bm7
+e| x        e| x        e| 
+b| 5        b| 7        b| 
+g| 6        g| 6        g| 
+D| 6        D| 7        
+A| x        A| 5        
+E| 5        E| x        
 
 
