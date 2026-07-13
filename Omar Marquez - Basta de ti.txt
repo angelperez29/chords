@@ -52,7 +52,6 @@ Ya no te voy a buscar
 No vuelvas a llamar
 C# F#
 Solo mantente lejos
-
 G#m D#7
 Destruimos lo que nos unía
  E Bsus2
@@ -88,12 +87,12 @@ F# Bsus2
 Basta de ti
 
 C#m7
-e| M
+e| X
 b| 0
 g| 4
 D| 2
 A| 4
-E| M
+E| X
 
-M -> Mute
+X -> Mute
 0 -> Al aire
